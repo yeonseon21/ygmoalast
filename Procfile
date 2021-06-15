@@ -1,0 +1,1 @@
+web: gunicorn ygmoalast.wsgi --log-file -
